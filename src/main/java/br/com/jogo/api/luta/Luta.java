@@ -56,7 +56,7 @@ public class Luta {
 
     @NotNull
     @Column(name = "IMAGEM_PERDEDOR")
-    public String imagemPerpededor;
+    public String imagemPerdedor;
 
     @NotNull
     @Column(name = "TIME_VENCEDOR")

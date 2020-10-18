@@ -77,7 +77,7 @@ public class LutaService {
         luta.setImagemVencedor(lutas.getHeroi().getImagem());
         luta.setLevelVencedor(lutas.getHeroi().getLevel());
         luta.setNomePerpededor(lutas.getVilao().getNome());
-        luta.setImagemPerpededor(lutas.getVilao().getImagem());
+        luta.setImagemPerdedor(lutas.getVilao().getImagem());
         luta.setLevelPerpededor(lutas.getVilao().getLevel());
         luta.setTimeVencedor("herois");
         luta.setTimePerdedor("viloes");
@@ -90,7 +90,7 @@ public class LutaService {
         luta.setImagemVencedor(lutas.getVilao().getImagem());
         luta.setLevelVencedor(lutas.getVilao().getLevel());
         luta.setNomePerpededor(lutas.getHeroi().getNome());
-        luta.setImagemPerpededor(lutas.getHeroi().getImagem());
+        luta.setImagemPerdedor(lutas.getHeroi().getImagem());
         luta.setLevelPerpededor(lutas.getHeroi().getLevel());
         luta.setTimeVencedor("viloes");
         luta.setTimePerdedor("herois");
