@@ -1,4 +1,4 @@
-package br.com.jogo.api.fight;
+package br.com.jogo.api.luta;
 
 import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;

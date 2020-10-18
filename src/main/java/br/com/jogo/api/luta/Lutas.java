@@ -1,4 +1,4 @@
-package br.com.jogo.api.fight;
+package br.com.jogo.api.luta;
 
 import br.com.jogo.api.heroi.Heroi;
 import br.com.jogo.api.vilao.Vilao;
